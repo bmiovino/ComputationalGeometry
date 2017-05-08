@@ -1,0 +1,6 @@
+C:\git\gitlocal\ComputationalGeometry\ComputationalGeometry\bin\Debug\ComputationalGeometry.exe.config
+C:\git\gitlocal\ComputationalGeometry\ComputationalGeometry\bin\Debug\ComputationalGeometry.exe
+C:\git\gitlocal\ComputationalGeometry\ComputationalGeometry\bin\Debug\ComputationalGeometry.pdb
+C:\git\gitlocal\ComputationalGeometry\ComputationalGeometry\obj\Debug\ComputationalGeometry.csprojResolveAssemblyReference.cache
+C:\git\gitlocal\ComputationalGeometry\ComputationalGeometry\obj\Debug\ComputationalGeometry.exe
+C:\git\gitlocal\ComputationalGeometry\ComputationalGeometry\obj\Debug\ComputationalGeometry.pdb
